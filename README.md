@@ -1,2 +1,2 @@
 # ML-Capstone
-My Capstone Project
+Chathura Peiris - My Capstone Project
